@@ -55,4 +55,4 @@ Ensures data consistency during money transfers.
 - GUI using JavaFX or Swing
 - Convert to Spring Boot REST API
 
-  GitHub:https://github.com/rohanmane7890/banking-management-system
+  GitHub:https://github.com/rohanmane7890/BankingManagementSystem
